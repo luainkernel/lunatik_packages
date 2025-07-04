@@ -1,0 +1,5 @@
+lunatik (3.6.2-1) unstable; urgency=medium
+
+  * Lunatik kernel Lua scripting framework for Debian/Ubuntu.
+
+ -- Shivam Vashisth <vashisth11shivam@gmail.com>  Tue, 01 Jul 2025 19:55:00 +0530
