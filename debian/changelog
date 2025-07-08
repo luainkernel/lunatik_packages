@@ -1,5 +1,5 @@
 lunatik (3.6.2-1) unstable; urgency=medium
 
-  * Lunatik kernel Lua scripting framework for Debian/Ubuntu.
+  * Lunatik, a framework for scripting the Linux kernel with Lua.
 
  -- Shivam Vashisth <vashisth11shivam@gmail.com>  Tue, 01 Jul 2025 19:55:00 +0530
